@@ -1,1 +1,2 @@
 first_version file
+A new line was added.
